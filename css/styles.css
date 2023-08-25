@@ -44,7 +44,7 @@ header#cabecalho img#icone {
 header#cabecalho {
     border-bottom: 1px #606060 solid;
     height: 150px;
-    background: url("/home/cauan/Documentos/site-html5-1/_imagens-videos-audios/glass-logo-peq.jpg")no-repeat 0 80px;
+    background: url("imagens-videos-audios/glass-logo-peq.jpg")no-repeat 0 80px;
 }
 
 
