@@ -34,15 +34,15 @@ fieldset#sexo {
 }
 
 fieldset#usuario {
-    background: url(_imagens-videos-audios/icone-contato.png) no-repeat 95% 95%;
+    background: url(imagens-videos-audios/icone-contato.png) no-repeat 95% 95%;
 }
 
 fieldset#endereco {
-    background: url(_imagens-videos-audios/icone-endereco.png) no-repeat 95% 95%;
+    background: url(imagens-videos-audios/icone-endereco.png) no-repeat 95% 95%;
 }
 fieldset#mensagem {
-    background: url(_imagens-videos-audios/icone-mensagem.png) no-repeat 95% 95%;
+    background: url(imagens-videos-audios/icone-mensagem.png) no-repeat 95% 95%;
 }
 fieldset#pedido {
-    background: url(_imagens-videos-audios/icone-pagamento.png) no-repeat 95% 95%;
+    background: url(imagens-videos-audios/icone-pagamento.png) no-repeat 95% 95%;
 }
